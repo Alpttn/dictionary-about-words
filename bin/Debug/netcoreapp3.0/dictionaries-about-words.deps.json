@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "dictionaries-about-words/1.0.0": {
+        "runtime": {
+          "dictionaries-about-words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dictionaries-about-words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\obj\Debug\netcoreapp3.0\dictionaries-about-words.csprojAssemblyReference.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\obj\Debug\netcoreapp3.0\dictionaries-about-words.AssemblyInfoInputs.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\obj\Debug\netcoreapp3.0\dictionaries-about-words.AssemblyInfo.cs
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\bin\Debug\netcoreapp3.0\dictionaries-about-words.exe
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\bin\Debug\netcoreapp3.0\dictionaries-about-words.deps.json
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\bin\Debug\netcoreapp3.0\dictionaries-about-words.runtimeconfig.json
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\bin\Debug\netcoreapp3.0\dictionaries-about-words.runtimeconfig.dev.json
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\bin\Debug\netcoreapp3.0\dictionaries-about-words.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\bin\Debug\netcoreapp3.0\dictionaries-about-words.pdb
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\obj\Debug\netcoreapp3.0\dictionaries-about-words.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\dictionaries-about-words\obj\Debug\netcoreapp3.0\dictionaries-about-words.pdb
